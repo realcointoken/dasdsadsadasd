@@ -1,0 +1,17 @@
+{
+  "short_name": "Hop",
+  "name": "Hop Protocol",
+  "description": "Hop is a scalable rollup-to-rollup general token bridge. It allows users to send tokens from one rollup or sidechain to another almost immediately without having to wait for network challenge periods.",
+  "iconPath": "/images/hop_logo.png",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
